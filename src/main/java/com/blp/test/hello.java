@@ -9,7 +9,7 @@ public class hello {
         System.out.println("master");
         System.out.println("hot-fox");
         System.out.println("push");
-
+         System.out.println("pull");
 
     }
 }
